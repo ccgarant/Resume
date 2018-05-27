@@ -108,7 +108,38 @@ Supported at least 3 pump and 5 motor engineering failure investigations
 *2006-2010*
 > - Graduated Magna Cum Laude
 
+## Projects
 
+### Learning Python
+
+*2016+*
+> Learning:
+> - Completed Course 
+>   - [Codecademy Learn Python](https://www.codecademy.com/learn/learn-python)
+> - Read Book and Completed Exercises 
+>   - [Python Crash Course: A Hands-On, Project-Based Introduction to Programming by Eric Matthes](https://www.amazon.com/gp/product/1593276036/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
+>   - [Automate the Boring Stuff with Python: Practical Programming for Total Beginners by Al Sweigart](https://www.amazon.com/gp/product/1593275994/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
+>   - [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython by Wes McKinney](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=sr_1_1?ie=UTF8&qid=1527451237&sr=8-1&keywords=pandas)
+
+> Projects:
+> - [Parts List Generator](https://github.com/ccgarant/Parts-List-Generator)
+
+### Learning MATLAB & Simulink
+*2013+*
+> Learning:
+> - [Simscape](https://www.mathworks.com/help/physmod/simscape/index.html?s_tid=srchtitle) Model and simulate multidomain physical systems, mainly hydraulics, driveline
+> - [Programming and Scripting](https://www.mathworks.com/help/matlab/programming-and-data-types.html)
+> - [Data Import and Analysis](https://www.mathworks.com/help/matlab/data-import-and-analysis.html)
+>
+> Projects:
+> - [Big Data MATLAB Import and Plot Workflow](https://github.com/ccgarant/big-data-matlab-import-and-plot-workflow)
+
+### Learning Swift
+> Learning:
+> - Completed Courses
+>   - Watched YouTube Series [Developing Apps for iOS, Standford CS193P](https://www.youtube.com/playlist?list=PLsJq-VuSo2k26duIWzNjXztkZ7VrbppkT)
+>   - Kindle Basic Training, [Let's Build That App](https://www.letsbuildthatapp.com/basic-training)
+>   - [Start Developing iOS Apps (Swift), Jump Right In](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
 
 
 
