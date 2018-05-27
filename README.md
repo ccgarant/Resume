@@ -135,6 +135,7 @@ Supported at least 3 pump and 5 motor engineering failure investigations
 > - [Big Data MATLAB Import and Plot Workflow](https://github.com/ccgarant/big-data-matlab-import-and-plot-workflow)
 
 ### Learning Swift
+*2017+*
 > Learning:
 > - Completed Courses
 >   - Watched YouTube Series [Developing Apps for iOS, Standford CS193P](https://www.youtube.com/playlist?list=PLsJq-VuSo2k26duIWzNjXztkZ7VrbppkT)
