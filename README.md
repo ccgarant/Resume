@@ -1,6 +1,17 @@
 # Christophe C Garant Resume
 *Updated May 2018*
 
+## Bio
+> Christophe currently works at Boeing Defense in the Rotorcraft Division as a Mechanical System Design & Analysis Engineer on the V-22 Osprey, a unique fly-by-wire tiltrotor used by the Marines and Air Force.  Christophe has worked in the V-22 Hydraulic and Mechanical Controls Engineering Group for his entire time at Boeing, about 6 years, working on defense aerospace hydraulic systems, and mechanical (pilot) flight controls.
+>
+> Prior to Boeing, Christophe worked just under 2 years at another defense contractor, General Dynamics Electric Boat in Groton CT, on Nuclear Submarines used by the Navy.
+>
+> Christophe earned his Master of Engineering at Villanova University with a focus in electromechanical and controls, and earned his BS in Mechanical Engineering at Temple University, graduating Magna Cum Laude.  
+>
+> Christophe is from Northeast Philadelphia and enjoys playing hockey and learning to code in Python and MATLAB.  Christophe is currently interested in Python and MATLAB coding, Machine and Deep Learning, and Blockchain.
+>
+> Christophe would like to focus his career going forward on physical system  modeling and simulation, such as in Simscape (Simulink) and Easy5, to enhance capabilities of system design, and component design and integration.
+
 ## Work Experience
 ### [Mechanical System Design & Analysis Engineer](https://jobs.boeing.com/category/mechanical-and-structural-engineering-jobs/185/2639/1), [Boeing Defense, Military Rotorcraft Division](http://www.boeing.com/defense/rotorcraft/)
 
