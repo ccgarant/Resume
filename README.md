@@ -129,7 +129,6 @@ Supported at least 3 pump and 5 motor engineering failure investigations
 >   - [Python Crash Course: A Hands-On, Project-Based Introduction to Programming by Eric Matthes](https://www.amazon.com/gp/product/1593276036/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
 >   - [Automate the Boring Stuff with Python: Practical Programming for Total Beginners by Al Sweigart](https://www.amazon.com/gp/product/1593275994/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
 >   - [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython by Wes McKinney](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=sr_1_1?ie=UTF8&qid=1527451237&sr=8-1&keywords=pandas)
-
 > Projects:
 > - [Parts List Generator](https://github.com/ccgarant/Parts-List-Generator)
 
