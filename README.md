@@ -1,13 +1,15 @@
-# Christophe C Garant Resume
-*Updated May 2018*
+# Christophe C Garant CV
+Curriculum Vitae (CV), Latin for "Course of Life"
+
+*Updated May 2019*
 
 ## Highlights
 
+> * Mechanical flight (pilot) controls cognizant engineer for the V-22 Osprey, a fly-by-wire tiltrotor.
 > * Hydraulic and multi domain system modeling and simulation in MSC Easy5 and MathWorks Simscape (Simulink physical modeling).
 > * MATLAB and Python programming and scripting to handle big data analysis and visualization. (python libraries: numpy, matplotlib, pandas, bokeh, dash)
 > * Mechanism kinematic and dynamic design & modeling.
 > * Electromechanical actuation and sensor feedback.
-> * Fly-by-wire mechanical flight (pilot) controls.
 > * Aerospace defense hydraulic component and system design.
 
 ## Bio
@@ -45,7 +47,7 @@
 > *General*
 > - Member of the V-22 Hydraulics & Mechanical Controls Engineering group for ~6 years, a group of about ~6 people with a high workload demanding constant priority evaluation, triaging tasks, and working effectively.
 > - Experience working on defense aerospace and helicopter (tiltrotor) triple redundant hydraulic and cockpit mechanical flight control systems.
-> - Cognizant engineer for the fly-by-wire cockpit mechanical flight controls system.
+> - Cognizant engineer for the fly-by-wire cockpit mechanical flight (pilot) controls system.
 > - Responsible for source controlled feel and drive electromechanical actuators, sensors, and build-to-print parts such as bellcranks, linkages, and dampers.
 > - Lead and resolve design issues by collaborating and coordinating with cross-functional IPTs, managing up to the Customer and down to the Suppliers.
 > - Support, resolve, and disposition production line troubleshooting integration issues and system functional test failures.  
@@ -150,6 +152,18 @@ Supported at least 3 pump and 5 motor engineering failure investigations
 >   - Watched YouTube Series [Developing Apps for iOS, Standford CS193P](https://www.youtube.com/playlist?list=PLsJq-VuSo2k26duIWzNjXztkZ7VrbppkT)
 >   - Kindle Basic Training, [Let's Build That App](https://www.letsbuildthatapp.com/basic-training)
 >   - [Start Developing iOS Apps (Swift), Jump Right In](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
+
+
+## Activities
+
+### Judge for Underwater Robotics Competition 
+**Judge**, [Marine Advance Techonology Education (MATE) Pennsylvania Regional Remotely Operated Vehicle (ROV) Competition](https://pennsylvania.materovcompetition.org/)
+
+*May 2019, Hosted by Villanova University College of Engineering*
+
+> - Volunteer judge for underwater robotics competition
+> - Poolside with the teams witnessing underwater activities being performed and recording scores real time.
+> - Rewarding experience to witness young engineers get excited and take pride in their working bots, and being able to give advice - but most importantly, ensure they have fun!
 
 
 
