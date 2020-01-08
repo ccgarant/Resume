@@ -2,14 +2,16 @@
 
 *Updated Jan 2020 For Flight Control System Focus*
 
-## Highlights
+## Relevant Flight Controls Highlights
 
-> * V-22 Mechanical Flight (pilot) Controls & Hydraulic System Engineer with 8 years experience
-> * Hydraulic and multi domain system modeling and simulation in MSC Easy5 and MathWorks Simscape (Simulink physical modeling).
+> * V-22 Mechanical Flight Controls & Hydraulic System Engineer with 8 years experience.
+> * Masters in Mechanical Engineering with an Electromechanical Certificate (Relevant Classes: Control Systems, Robotics, and Dynamic Sys Modeling)
+> * V-22 Flight Controls system and component architecture general knowledge and awareness
 > * MATLAB and Python programming and scripting to handle big data analysis and visualization. (python libraries: numpy, matplotlib, pandas, bokeh, dash)
-> * Mechanism kinematic and dynamic design & modeling.
-> * Electromechanical actuation and sensor feedback.
-> * Aerospace defense hydraulic component and system design.
+> * Hydraulic multiphyics system modeling and simulation in MSC Easy5 and MathWorks Simscape (Simulink physical modeling).
+> * Mechanism kinematic and dynamic modeling.
+> * Electromechanical actuation and sensor component and system design experience.
+
 
 ## Bio
 > Christophe currently works at Boeing Defense in the Rotorcraft Division as a Mechanical System Design & Analysis Engineer on the V-22 Osprey, a unique fly-by-wire tiltrotor used by the Marines and Air Force.  Christophe has worked in the V-22 Hydraulic and Mechanical Controls Engineering Group for his entire time at Boeing, about 6 years, working on defense aerospace hydraulic systems, and mechanical (pilot) flight controls.
