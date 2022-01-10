@@ -1,51 +1,53 @@
 # Christophe C Garant CV
 Curriculum Vitae (CV), Latin for "Course of Life"
 
-*Updated May 2019*
+*Updated Jan 2022*
 
 ## Highlights
 
-> * Mechanical flight (pilot) controls cognizant engineer for the V-22 Osprey, a fly-by-wire tiltrotor.
-> * Hydraulic and multi domain system modeling and simulation in MSC Easy5 and MathWorks Simscape (Simulink physical modeling).
-> * MATLAB and Python programming and scripting to handle big data analysis and visualization. (python libraries: numpy, matplotlib, pandas, bokeh, dash)
+> * Rotorcraft Flight Controls Software Engineer on Sikorsky Blackhawk Platforms, including autonomy projects.  Mainly integration, test verification and validation support.
+> * Eight Years experience Mechanical Flight Controls & Hydraulics Engineer for the V-22 Osprey, a fly-by-wire tiltrotor.
+> * Python data analysis and scripting to handle big data, repetitive tasks, and visualization.
+> * Integration testing, verification and validation of flight controls.  Lab support.
 > * Mechanism kinematic and dynamic design & modeling.
 > * Electromechanical actuation and sensor feedback.
-> * Aerospace defense hydraulic component and system design.
+> * Aerospace defense system engineering.
 
 ## Bio
-> Christophe currently works at Boeing Defense in the Rotorcraft Division as a Mechanical System Design & Analysis Engineer on the V-22 Osprey, a unique fly-by-wire tiltrotor used by the Marines and Air Force.  Christophe has worked in the V-22 Hydraulic and Mechanical Controls Engineering Group for his entire time at Boeing, about 6 years, working on defense aerospace hydraulic systems, and mechanical (pilot) flight controls.
+> Christophe currently works at Sikorsky Aircraft, a Lockheed Martin Company, supporting Blackhawk platform Flight Controls and Autonomous Systems testing support.  He supports autonomous programs lab integration testing, verification, and validation, as well as supporting legacy production obsolescence efforts.
 >
-> Prior to Boeing, Christophe worked just under 2 years at another defense contractor, General Dynamics Electric Boat in Groton CT, on Nuclear Submarines used by the Navy.
+> Christophe's prior bulk experience was working at Boeing Vertical Lift, Philadelphia, as a Mechanical System Design & Analysis Engineer on the V-22 Osprey, a unique fly-by-wire tiltrotor used by the Marines and Air Force.  Christophe was a cognizant engineer of the Mechanical Flight Controls, a mix of electromechanical actuators and sensors to the flight controls, as well as build-to-print machined parts. Christophe also supported the V-22 Hydraulics, namely teardown investigations and testing on the variable displacement pump, and a pressure reducing pallet design for refueling.
 >
-> Christophe earned his Master of Engineering at Villanova University with a focus in electromechanical and controls, and earned his BS in Mechanical Engineering at Temple University, graduating Magna Cum Laude.  
+> Prior to Boeing, Christophe worked just under 2 years at General Dynamics Electric Boat in Groton CT, on Nuclear Submarines used by the Navy.  Christophe supported trade studies for the Ohio (Columbia) Replacement program of hydraulic versus electromechanical actuation.
 >
-> Christophe is from Northeast Philadelphia and enjoys playing hockey and learning to code in Python and MATLAB.  Christophe is currently interested in Python and MATLAB coding, Machine and Deep Learning, and Blockchain.
+> Christophe earned his Master of Engineering at Villanova University with a focus in electromechanical and controls in 2017, and earned his BS in Mechanical Engineering at Temple University, graduating Magna Cum Laude in 2010.  
 >
-> Christophe would like to focus his career going forward on physical system  modeling and simulation, such as in Simscape (Simulink) and Easy5, to enhance capabilities of system design, and component design and integration.
+> Christophe is originally from Philadelphia and enjoys playing hockey, learning to code in Python and Haskell, and sampling good beer.  Christophe is also passionate about learning hard money principles of Austrian Economics, Bitcoin, Cardano, and how it can change the world.
 
 ## Work Experience
+
+### [Flight Controls and Autonomy Engineer Senior](https://www.lockheedmartinjobs.com/job/stratford/flight-controls-and-autonomy-engineer/694/15248967120), [Sikorsky, A Lockheed Martin Company](https://www.lockheedmartin.com/en-us/capabilities/sikorsky.html)
+[Sikorsky Innovations](https://www.lockheedmartin.com/en-us/capabilities/sikorsky/sikorsky-innovations.html), [Stratford, CT](https://www.google.com/maps/place/Sikorsky/@41.2494213,-73.1001559,16.09z/data=!4m5!3m4!1s0x89e80b627ad968d5:0x90953b23017a8598!8m2!3d41.2504536!4d-73.0974023)
+
+Sept 2020 - Present
+
+> *General*
+> * Flight Controls and Autonomous Systems (FACS) engineer providing Lab Integration, Verification, and Validation testing support.
+> * Supports testing designs for new Blackhawk varient autonomy programs, such as the [S-70 Optionally Piloted Vehicle (OPV)](https://verticalmag.com/news/u-s-army-to-fly-robot-black-hawk-without-pilots-in-january/)
+> * Create test cases for subsystem flight controls design verification, in worst case flight scenarios.
+> * Support Flight Control Computer obsolescence testing for production support.
+> * Daily work in MATLAB and Simulink, deciphering complex flight controls, Stateflow, and running the System Integration Lab (SIL).
+
+
 ### [Mechanical System Design & Analysis Engineer](https://jobs.boeing.com/category/mechanical-and-structural-engineering-jobs/185/2639/1), [Boeing Defense, Military Rotorcraft Division](http://www.boeing.com/defense/rotorcraft/)
 
 [Ridley Park, PA (Philadelphia Site)](https://goo.gl/maps/8WB71Em3KzG2)
 
 **Mechanical System Design & Analysis Engineer**, [V-22 Osprey](http://www.boeing.com/defense/v-22-osprey/index.page), Hydraulics & Mechanical Controls IPT
 
-*May 2012 - Present (~6 yrs)*
-> *Recent work highlights 2017-2018*
-> - Simulated a V-22 hydraulic subsystem in [MSC Easy5](http://www.mscsoftware.com/product/easy5) as part of a larger multi-domain aero modeling effort to simulate the V-22's response to different refueling scenarios for the [V-22 Aerial Refueling System (VARS)](https://breakingdefense.com/2016/05/v-22-refueling-contract-highlights-close-ties-to-f-35/).
->   - Leveraged [MATLAB](https://www.mathworks.com/products/matlab.html) [programming and scripting](https://www.mathworks.com/help/matlab/programming-and-data-types.html) to [handle big data analysis](), [dashboard visualization](https://www.mathworks.com/help/matlab/graphics.html), [file and folder directory management](https://www.mathworks.com/help/matlab/file-operations.html), and automatic [report generation](https://www.mathworks.com/help/rptgen/index.html?searchHighlight=report&s_tid=doc_srchtitle) of more than 30+ cases of large simulation results. [(Source code example here)](https://github.com/ccgarant/big-data-matlab-import-and-plot-workflow).
-> - Performed research and early specification development as part of a 2017 R&D whitepaper effort to evaluate the feasibility of incorporating new electromechanical actuators for the V-22 platform. 
-> - Released a 17 page modification drawing to upgrade the older aircraft’s cockpit mechanical flight controls configuration as part of the [Common Configuration – Readiness and Modernization (CC-RAM)](https://breakingdefense.com/2018/02/streamlined-mv-22-maintenance-from-70-osprey-types-down-to-5/) effort.
->   - Coded a Python script, due to the sheer multitude of parts, to count hardware stack-ups and generate an ordered and counted hardware Parts List. [(Source code example here)](https://github.com/ccgarant/Parts-List-Generator).
-> - Lead grass roots effort to improve the V-22 flying (handling) qualities by redesigning a lowly, out-of-the-comfort zone, material cyclic stick protective boot cover assembly.
->   - Required humble, inglorious grunt work with material flat patterns.
->   - Culminated in a forced retrofit to the entire V-22 Fleet.  
->   - This simple, lowly change has big impacts by reducing the risk of bad landings in reduced visibility which may [ultimately save lives and loss of aircraft](https://www.marinecorpstimes.com/news/your-marine-corps/2015/11/23/pilot-missteps-brownout-led-to-hawaii-osprey-crash/).
-> - Lead the design and safety-of-flight qualification effort for new tie rod (linkages) components for the VARS program.
->   - Coordinated, created, and released the SOW & Spec, and reviewed the Supplier QTP & QTR.
-
+*May 2012 - Sept 2020 (~8 yrs)*
 > *General*
-> - Member of the V-22 Hydraulics & Mechanical Controls Engineering group for ~6 years, a group of about ~6 people with a high workload demanding constant priority evaluation, triaging tasks, and working effectively.
+> - Member of the V-22 Hydraulics & Mechanical Controls Engineering group for ~8 years, a group of about ~8 people with a high workload demanding constant priority evaluation, triaging tasks, and working effectively.
 > - Experience working on defense aerospace and helicopter (tiltrotor) triple redundant hydraulic and cockpit mechanical flight control systems.
 > - Cognizant engineer for the fly-by-wire cockpit mechanical flight (pilot) controls system.
 > - Responsible for source controlled feel and drive electromechanical actuators, sensors, and build-to-print parts such as bellcranks, linkages, and dampers.
